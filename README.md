@@ -61,3 +61,7 @@ Whether you are a hobbyist exploring AI art or a professional creator aiming for
 
 *(Section to include setup instructions, model downloads, or workflow guides.)*
 *(More Soon)*
+Model use : 
+ControllNet Flux : [https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro-2.0/tree/main]
+ControllNet SD/SDXL/PONY/ILLUSTRIOUS : [https://huggingface.co/xinsir/controlnet-union-sdxl-1.0/tree/main]
+ControllNet QWENT : [NOT YET...]
