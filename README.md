@@ -65,5 +65,6 @@ Whether you are a hobbyist exploring AI art or a professional creator aiming for
 Model use :
 
 - ControllNet Union FLUX GGUF/NUNCHAKU : [https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro-2.0/tree/main]
-- ControllNet Union SD/SDXL/PONY/ILLUSTRIOUS : [https://huggingface.co/xinsir/controlnet-union-sdxl-1.0/tree/main]
+- ControllNet Union SDXL/PONY/ILLUSTRIOUS : [https://huggingface.co/xinsir/controlnet-union-sdxl-1.0/tree/main]
+- ControllNet Union SD : [NOT YET...]
 - ControllNet Union QWENT : [NOT YET...]
