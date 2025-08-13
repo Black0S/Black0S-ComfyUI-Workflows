@@ -1,8 +1,25 @@
-# True V1.6– All-in-One ComfyUI Workflow
+# 🌟 True V1.6 – All-in-One ComfyUI Workflow
 
-**True V1.6** is the latest version of my comprehensive ComfyUI workflow, designed to provide artists, creators, and AI enthusiasts with a **complete, professional-grade pipeline** for generating and manipulating images with ease, precision, and flexibility.  
+**True V1.6** is the latest release of my complete **ComfyUI** workflow, designed to provide artists, creators, and AI enthusiasts with a **professional-grade, all-in-one pipeline** for generating and manipulating images with **ease, precision, and flexibility**.
 
-This workflow integrates multiple tools and modules into a single, streamlined setup to maximize creativity and efficiency. Whether you want to generate images from text, transform existing images, or perform advanced upscaling, True V1.6 has you covered.
+By seamlessly integrating multiple tools and modules into a single, streamlined environment, True V1.6 maximizes both **creativity** and **efficiency**.  
+Whether you want to generate images from text, transform existing visuals, or perform advanced upscaling, **True V1.6** gives you everything you need.
+
+---
+
+## 📸 Visual Module Overview
+
+| Preview | Name & Author |
+|---------|---------------|
+| <img src="https://github.com/user-attachments/assets/5e8e3976-91d0-4dd7-af1f-4c5428975841" width="300"/> | **PREMIUM V1.6** – By *Black0S* |
+| <img src="https://github.com/user-attachments/assets/a009b8f1-5115-4f53-9833-f86badcfe37e" width="300"/> | **GGUF TO IMG** – By *Black0S* |
+| <img src="https://github.com/user-attachments/assets/f651d2de-ec18-4fd4-8779-13e73487e4f2" width="300"/> | **QWENT TO IMG** – By *Black0S* |
+| <img src="https://github.com/user-attachments/assets/ceb1b763-5e77-4bff-87da-82e64c599369" width="300"/> | **NUNCHAKU TO IMG** – By *Black0S* |
+| <img src="https://github.com/user-attachments/assets/30c82572-be49-4063-a76a-17e9db6d1c32" width="300"/> | **SDXL TO SD TO IMG** – By *Black0S* |
+
+---
+
+✨ *True V1.6: The ultimate tool to push the boundaries of your visual creativity.*
 
 ---
 
