@@ -1,6 +1,6 @@
-# 🌟 True V1.6 – All-in-One ComfyUI Workflow
+# 🌟 V1.6 – All-in-One ComfyUI Workflow
 
-**True V1.6** is the latest release of my complete **ComfyUI** workflow, designed to provide artists, creators, and AI enthusiasts with a **professional-grade, all-in-one pipeline** for generating and manipulating images with **ease, precision, and flexibility**.
+**V1.6** is the latest release of my complete **ComfyUI** workflow, designed to provide artists, creators, and AI enthusiasts with a **professional-grade, all-in-one pipeline** for generating and manipulating images with **ease, precision, and flexibility**.
 
 ---
 
@@ -65,9 +65,9 @@
 
 | Step | Description |
 |------|-------------|
-| 1️⃣ | Download the workflow and required models. |
+| 1️⃣ | Download the workflow and models. |
 | 2️⃣ | Import into **ComfyUI**. |
-| 3️⃣ | Load your model & start creating. |
+| 3️⃣ | Load & start creating. |
 
 **Model Links:**
 - ControlNet Union FLUX GGUF/NUNCHAKU → [huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro-2.0](https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro-2.0/tree/main)  
