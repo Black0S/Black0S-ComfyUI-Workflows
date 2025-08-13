@@ -7,7 +7,7 @@ Whether you want to generate images from text, transform existing visuals, or pe
 
 ---
 
-## 📸 Visual Module Overview
+## 📸 Visual Workflows Overview
 
 | Preview | Name & Author |
 |---------|---------------|
