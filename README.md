@@ -59,5 +59,5 @@ Whether you are a hobbyist exploring AI art or a professional creator aiming for
 
 ## ⚡ Installation & Usage
 
-*(Optional section if you want to include setup instructions, model downloads, or workflow guides.)*
+*(Section to include setup instructions, model downloads, or workflow guides.)*
 *(More Soon)*
