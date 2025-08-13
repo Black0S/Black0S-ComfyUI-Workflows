@@ -50,7 +50,7 @@
 
 ---
 
-## 🎨 Why Choose True V1.6?
+## 🎨 Why Choose V1.6 – All-in-One ComfyUI Workflow?
 
 | 💎 Benefit | Description |
 |------------|-------------|
