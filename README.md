@@ -1,8 +1,8 @@
 # True V1.6– All-in-One ComfyUI Workflow
 
-**True V1.5** is the latest version of my comprehensive ComfyUI workflow, designed to provide artists, creators, and AI enthusiasts with a **complete, professional-grade pipeline** for generating and manipulating images with ease, precision, and flexibility.  
+**True V1.6** is the latest version of my comprehensive ComfyUI workflow, designed to provide artists, creators, and AI enthusiasts with a **complete, professional-grade pipeline** for generating and manipulating images with ease, precision, and flexibility.  
 
-This workflow integrates multiple tools and modules into a single, streamlined setup to maximize creativity and efficiency. Whether you want to generate images from text, transform existing images, or perform advanced upscaling, True V1.5 has you covered.
+This workflow integrates multiple tools and modules into a single, streamlined setup to maximize creativity and efficiency. Whether you want to generate images from text, transform existing images, or perform advanced upscaling, True V1.6 has you covered.
 
 ---
 
@@ -53,7 +53,7 @@ This ensures flexibility and maximum creative potential across different AI mode
 - **All-in-One Convenience** – Combines text-to-image, image-to-image, upscaling, inpainting/outpainting, and high-res fixes in a single workflow.  
 - **Optimized for Efficiency** – Reduces manual setup and repetitive tasks, so you can focus on creativity.
 
-Whether you are a hobbyist exploring AI art or a professional creator aiming for polished results, True V1.5 provides a **robust, flexible, and intuitive pipeline** that makes complex image generation workflows accessible and reliable.
+Whether you are a hobbyist exploring AI art or a professional creator aiming for polished results, True V1.6 provides a **robust, flexible, and intuitive pipeline** that makes complex image generation workflows accessible and reliable.
 
 ---
 
