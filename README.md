@@ -46,7 +46,7 @@ This ensures flexibility and maximum creative potential across different AI mode
 
 ---
 
-## 🎨 Why Choose True V1.5?
+## 🎨 Why Choose True V1.6?
 
 - **Professional Results** – Built for artists and creators who want high-quality outputs without compromise.  
 - **Flexibility & Customization** – Supports multiple models and workflows, allowing full control over your creative process.  
