@@ -1,4 +1,4 @@
-# True V1.5 – All-in-One ComfyUI Workflow
+# True V1.6– All-in-One ComfyUI Workflow
 
 **True V1.5** is the latest version of my comprehensive ComfyUI workflow, designed to provide artists, creators, and AI enthusiasts with a **complete, professional-grade pipeline** for generating and manipulating images with ease, precision, and flexibility.  
 
