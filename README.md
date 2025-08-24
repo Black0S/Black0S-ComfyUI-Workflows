@@ -32,7 +32,6 @@
 | 📈 **Advanced Upscaling** | Enhance image resolution and detail while maintaining quality — perfect for high-res outputs & prints. |
 | 🪄 **Integrated Highres Fix** | Automatically fixes artifacts and improves image fidelity for high-resolution content. |
 | 🎯 **ControlNet Integration** | Gain fine-grained control over pose, structure, and composition. |
-| 🤖 **AI Output Analysis** | Automatically evaluates outputs and suggests improvements. |
 | 🖌 **Inpainting & Outpainting** | Perform precise edits or extend scenes seamlessly. |
 
 ---
