@@ -10,6 +10,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Black0S/Black0S-ComfyUI-Workflows/releases/tag/Stable">
+    <img src="https://img.shields.io/badge/Download-Stable%20Release-blue?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+
+<p align="center">
   <strong>Production-ready • Modular • Clean • Fully Scalable ComfyUI Workflow</strong>
 </p>
 
@@ -96,8 +103,8 @@ V2 is architecture-agnostic and designed to support multiple diffusion ecosystem
 
 | Step | Action |
 |------|--------|
-| 1️⃣ | Download the workflow file. |
-| 2️⃣ | Place it inside your **ComfyUI `/workflows` folder** & **Unzip It**. |
+| 1️⃣ | Download the latest Stable release here: **[Download Workflow](https://github.com/Black0S/Black0S-ComfyUI-Workflows/releases/tag/Stable)** |
+| 2️⃣ | Place the downloaded file inside your **ComfyUI `/workflows` folder** and unzip it. |
 | 3️⃣ | Launch ComfyUI and load the workflow. |
 | 4️⃣ | Select your model and start generating. |
 
