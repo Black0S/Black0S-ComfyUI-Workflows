@@ -154,15 +154,15 @@ V3 is architecture-agnostic and supports both visual and audio ecosystems.
 
 ## 🎯 Philosophy
 
-V2 is built around three principles:
+V3 is built around the same guiding principles as V2, now extended to **multimodal workflows**:
 
-- **Clarity over clutter**
-- **Modularity over chaos**
-- **Full control without sacrificing usability**
+- **Clarity over clutter** – a clean interface for both image and audio pipelines  
+- **Modularity over chaos** – structured Subgraphs keep everything organized  
+- **Full control without sacrificing usability** – tweak every parameter in image, speech, or music generation  
 
-Whether you're generating quick concepts or refining production-grade artwork,  
-V2 provides a stable, scalable, and professional foundation.
+Whether you're producing quick visual concepts, recording speech, or composing AI-generated music,  
+V3 provides a **stable, scalable, and professional foundation** for multimodal creation.
 
 ---
 
-**V2 – Clean. Modular. Powerful.**
+**V3 – Clean. Modular. Powerful. Multimodal.**
