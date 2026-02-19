@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Black0S/Black0S-ComfyUI-Workflows/releases/tag/Stable">
+  <a href="https://github.com/Black0S/Black0S-ComfyUI-Workflows/releases/tag/Latest">
     <img src="https://img.shields.io/badge/Download-Stable%20Release-blue?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -129,7 +129,7 @@ V3 is architecture-agnostic and supports both visual and audio ecosystems.
 
 | Step | Action |
 |------|--------|
-| 1️⃣ | Download the latest Stable release here: **[Download Workflow](https://github.com/Black0S/Black0S-ComfyUI-Workflows/releases/tag/Stable)** |
+| 1️⃣ | Download the latest Stable release here: **[Download Workflow](https://github.com/Black0S/Black0S-ComfyUI-Workflows/releases/tag/Latest)** |
 | 2️⃣ | Place the downloaded file inside your **ComfyUI `/workflows` folder** and unzip it. |
 | 3️⃣ | Launch ComfyUI and load the workflow. |
 | 4️⃣ | Select your model and start generating. |
