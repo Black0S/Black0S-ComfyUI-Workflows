@@ -20,6 +20,8 @@
   <strong>Production-ready • Modular • Clean • Fully Scalable ComfyUI Workflow</strong>
 </p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C11HGDJV)
+
 V3 represents the latest evolution of my complete ComfyUI workflow system expanding beyond visual generation into a fully integrated Image + Audio production environment.
 
 Engineered for performance, modularity, and scalability, V3 delivers a production-ready creative pipeline covering advanced image synthesis, speech generation, and AI-driven music workflows.
